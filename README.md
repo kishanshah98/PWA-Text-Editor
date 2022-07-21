@@ -3,6 +3,8 @@
 
 This application is a text editor that can be run in the browser. Using progressive web applications, this application allows the user to be able to use it online and offline.
 
+![Screenshot](./client/src/images/pwa.png)
+
 ### User Story
 
 ```md
@@ -31,7 +33,7 @@ SO THAT I can reliably retrieve them for later use
 - Express
 
 ### Deployed Heroku link provided below:
-[Click here to access the deployed link]()
+[Click here to access the deployed link](https://pwa-text-editor-ks.herokuapp.com/)
 
 ## Contributions
 There are no other contributors for this application.
